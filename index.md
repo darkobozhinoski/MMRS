@@ -1,4 +1,4 @@
-# Experiment Setup
+# Experiment Design
 
 ## GOAL
 
