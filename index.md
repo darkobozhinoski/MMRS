@@ -1,8 +1,10 @@
+We presented a collective adaptation process for Mobile Multi-Robot Systems that consists of two segments: first segment that focuses on adaptation triggered by mission problems and another segment that performs adaptation as a result of safety problems in the system. Here, we describe our evalaution of the approach. In the next section the experimental setup is described.
+
 # Experiment Design
 
 ## GOAL
 
-Analyze the CAP implementation for the purpose of evaluation  with respect to mission satisfiability, safety, and run-time efficiency 
+Analyze the Collective Adaptation Process (CAP) implementation for the purpose of evaluation  with respect to mission satisfiability, safety, and run-time efficiency 
 from the point of view of researchers in the context of UAV-based missions
 
 ## Design
