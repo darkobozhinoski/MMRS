@@ -1,4 +1,5 @@
-We presented a collective adaptation process for Mobile Multi-Robot Systems that consists of two segments: first segment that focuses on adaptation triggered by mission problems and another segment that performs adaptation as a result of safety problems in the system. Here, we describe our evalaution of the approach. In the next section the experimental setup is described.
+We presented a collective adaptation process for Mobile Multi-Robot Systems that consists of two segments: first segment that focuses on adaptation triggered by mission problems and another segment that performs adaptation as a result of safety problems in the system. Here, we describe our evalaution of the approach. 
+In the next section the experimental setup is described.
 
 # Experiment Design
 
