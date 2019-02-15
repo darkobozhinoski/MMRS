@@ -1,6 +1,3 @@
-We presented a collective adaptation process for Mobile Multi-Robot Systems that consists of two segments: first segment that focuses on adaptation triggered by mission problems and another segment that performs adaptation as a result of safety problems in the system. Here, we describe our evalaution of the approach. 
-In the next section the experimental setup is described.
-
 # Experiment Design
 
 ## GOAL
@@ -11,7 +8,7 @@ from the point of view of researchers in the context of UAV-based missions
 ## Design
 The experiment is designed as a multi-test within object study, because it is conducted on a single object (i.e., the current implementation of CAP) across a set of subjects (i.e., a set of UAV-based missions and a set of robots’ teams).
 
-## Research questions
+### Research questions
 
 **RQ1**: To what extent does the CAP implementation achieves mission completion? [mission satisfiability]
 _Used metrics_:
@@ -35,7 +32,16 @@ _Used metrics_:
 ![Image](image1.png)
 
 
-# Experimental Results
+## Experimental Results
 
 Coming soon...
+
+
+
+# TEAM
+1. Darko Bozhinoski
+2. Ivano Malavolta
+3. Patrizio Pelliccione
+4. David Garlan
+5. Ivica Crnkovic
 
